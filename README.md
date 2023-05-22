@@ -3,12 +3,21 @@
 # AntiFacebook Extension
 Một chrome extension để vô hiệu hóa FB khi bạn sử dụng facebook trong một thời gian dài
 
-__TÍNH NĂNG CỦA CÁC PHIÊN BẢN ANTIFACEBOOK__
+## Tính năng chính:
+**1. Block Facebook**
 
-### Tính năng chính:
-- Block Facebook
-- Hiển thị câu nói truyền động lực
+![image](https://github.com/AppSalmon/Anti-Facebook-Extension/assets/120777599/91be3d9a-c620-4736-9037-6a4173d62402)\
+*Hình ảnh trong các version bình thường*
 
+![image](https://github.com/AppSalmon/Anti-Facebook-Extension/assets/120777599/8c01916c-c2c7-4db9-aa8a-c8143beb4dd4)\
+*Hình ảnh trong version Destroy*
+
+**2. Hiển thị câu nói truyền động lực**
+
+![image](https://github.com/AppSalmon/Anti-Facebook-Extension/assets/120777599/b118533e-49ee-4e50-8bdf-a9139a44b363)\
+*Hình ảnh câu nói truyền động lực*
+
+## Các phiên bản
 🌟Phiên bản **AntiFacebook Version Super Detox**
 - Là phiên bản chặn Facebook bất cứ khi nào bạn truy cập
 - Không hiển thị câu nói truyền động lực (Chứ vào là chặn thôi:> không hiển thị gì)
@@ -46,11 +55,11 @@ __TÍNH NĂNG CỦA CÁC PHIÊN BẢN ANTIFACEBOOK__
 
 Lưu ý: Nếu bạn muốn sử dụng tính năng của nhiều phiên bản thì có thể cài đặt nhiều phiên bản cùng lúc (Ví dụ Motivation và Normal Detox -> để ngủ sớm vừa làm việc tốt😉)
 
-__HƯỚNG DẪN SỬ DỤNG__
+## HƯỚNG DẪN SỬ DỤNG
 
 Đang update...
 
-Liên hệ
+## Liên hệ
 
 hoangtuan.salmon@gmail.com
 
