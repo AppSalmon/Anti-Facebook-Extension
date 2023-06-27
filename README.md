@@ -67,4 +67,5 @@ FB: https://www.facebook.com/TuanAmbiTion173/
 
 Github and version: https://github.com/AppSalmon/Anti-Facebook-Extension
 
+Ứng dụng sẽ sớm có mặt trên Chrome extension store
 © Đào Xuân Hoàng Tuấn (Salmon)
